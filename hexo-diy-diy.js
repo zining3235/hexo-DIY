@@ -5,3 +5,7 @@ xiaokang.randomBanner(
     2, // 随机数结束范围
     true // 是否开启滤镜 默认不开启
 );
+xiaokang.mobileSidebar();
+xiaokang.codeFull();
+xiaokang.consoleAnchor();
+xiaokang.bgPage();
