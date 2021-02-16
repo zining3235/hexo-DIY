@@ -1,3 +1,5 @@
+var xiaokang = new xkTool(param1,param2);
+var xiaokang = new xkTool();
 xiaokang.randomBanner(
     "https://cdn.jsdelivr.net/gh/zining3235/img/top", // 前半部分网址
     "-bar.jpg", // 后半部分网址
