@@ -1,12 +1,3 @@
-#aside-content{
- height:2680px;
-}
-
-/* Content inner */
-#content-inner{
- height:2769px;
-}
-
 /* Image */
 #recent-posts a img{
  border-style:solid;
@@ -111,7 +102,3 @@
 #menus li .fa-video{
  color:#fca5a5;
 }
-
-
-
-
