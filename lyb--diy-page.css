@@ -1,3 +1,8 @@
+/* Card newest comments */
+#card-newest-comments{
+ display:none;
+}
+
 /* Card categories */
 #aside-content .card-categories{
  display:none;
@@ -18,13 +23,8 @@
  display:none;
 }
 
-/* Card newest comments */
-#card-newest-comments{
- display:none;
-}
-
 /* Page */
 #page{
- min-height:1003px;
+ min-height:1001px;
 }
 
