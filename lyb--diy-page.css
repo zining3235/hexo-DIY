@@ -1,24 +1,10 @@
-/* Body wrap */
-#body-wrap{
- transform:translatex(0px) translatey(0px);
+/* Card categories */
+#aside-content .card-categories{
+ display:none;
 }
 
 /* Card tags */
 #aside-content .card-tags{
- transform:translatex(275px) translatey(315px);
- left:-2px;
- top:-12px;
- min-height:345px;
-}
-
-/* Card recent post */
-#aside-content .card-recent-post{
- transform:translatex(-764px) translatey(144px);
- display:none;
-}
-
-/* Card categories */
-#aside-content .card-categories{
  display:none;
 }
 
@@ -32,18 +18,13 @@
  display:none;
 }
 
-/* Card announcement */
-#aside-content .card-announcement{
- display:none;
-}
-
 /* Card newest comments */
 #card-newest-comments{
  display:none;
 }
 
-/* Sticky layout */
-#aside-content .sticky_layout{
- transform:translatex(-273px) translatey(-302px);
+/* Page */
+#page{
+ min-height:1003px;
 }
 
