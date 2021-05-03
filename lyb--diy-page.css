@@ -1,0 +1,30 @@
+/* Card newest comments */
+#card-newest-comments{
+ display:none;
+}
+
+/* Card categories */
+#aside-content .card-categories{
+ display:none;
+}
+
+/* Card tags */
+#aside-content .card-tags{
+ display:none;
+}
+
+/* Card archives */
+#aside-content .card-archives{
+ display:none;
+}
+
+/* Card webinfo */
+#aside-content .card-webinfo{
+ display:none;
+}
+
+/* Page */
+#page{
+ min-height:1001px;
+}
+
