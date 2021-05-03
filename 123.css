@@ -1,0 +1,11 @@
+/* Footer wrap */
+#footer-wrap{
+ transform:translatex(-14px) translatey(230px);
+ top:-225px;
+ left:14px;
+}
+
+/* Footer */
+#footer{
+ transform:translatex(0px) translatey(2493px);
+}
