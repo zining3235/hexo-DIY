@@ -19,4 +19,24 @@
  border-color:#ecd4d4;
  border-width:0px;
 }
+/* Font Icon */
+#recent-posts .post-meta-date i{
+ color:#c0392b;
+}
+
+/* Font Icon */
+#recent-posts .article-meta .fa-inbox{
+ color:#ff5722;
+}
+
+/* Font Icon */
+#recent-posts .article-meta .fa-tag{
+ color:#00bcd4;
+}
+
+/* Font Icon */
+#recent-posts .article-meta .fa-comments{
+ color:#009688;
+}
+
 
