@@ -111,7 +111,18 @@
 #menus li .fa-video{
  color:#fca5a5;
 }
+/* Image */
+.vcards .vcard img{
+ transform:translatex(0px) translatey(0px) !important;
+ border-style:solid;
+ border-color:#ff8989 !important;
+}
 
+/* Image */
+.card-info .card-info-avatar img{
+ border-color:#ff7070;
+ border-style:solid;
+}
 
 
 
