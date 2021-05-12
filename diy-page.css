@@ -70,11 +70,7 @@
 #recent-posts .article-meta .fa-comments{
  color:#4285f4;
 }
-/* Image */
-#recent-posts a img{
- border-style:solid;
- border-color:#f5bcbc;
-}
+
 /* Aside content */
 #aside-content{
  height:2680px;
