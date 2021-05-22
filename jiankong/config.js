@@ -2,7 +2,6 @@
 window.Config = {
 
   // 站点名
-  SiteName: '叶可爱博客监控',
 
   // 站点链接
   SiteUrl: 'https://yekei.com/',
@@ -33,12 +32,10 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '博客主页',
-      url: 'https://yekei.com/'
+
     },
     {
-      text: '监控页面源码GitHub',
-      url: 'https://github.com/yb/uptime-status'
+
     }
   ]
 };
