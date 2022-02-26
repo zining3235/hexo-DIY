@@ -70,3 +70,64 @@
 #recent-posts .article-meta .fa-comments{
  color:#4285f4;
 }
+/* Sticky layout */
+#aside-content .sticky_layout{
+ padding-bottom:49px;
+ height:1697px;
+}
+
+/* Content inner */
+#content-inner{
+ transform:translatex(0px) translatey(0px);
+}
+
+/* Recent post item */
+#recent-posts .recent-post-item{
+ background-color:rgba(255,255,255,0.17);
+}
+
+/* Card info */
+#aside-content .card-info{
+ background-color:rgba(255,255,255,0.17);
+}
+
+/* Card announcement */
+#aside-content .card-announcement{
+ background-color:rgba(255,255,255,0.17);
+}
+
+/* Card recent post */
+#aside-content .card-recent-post{
+ background-color:rgba(255,255,255,0.17);
+}
+
+/* Card newest comments */
+#card-newest-comments{
+ background-color:rgba(255,255,255,0.17) !important;
+}
+
+/* Card categories */
+#aside-content .card-categories{
+ background-color:rgba(255,255,255,0.17);
+}
+
+/* Card tags */
+#aside-content .card-tags{
+ background-color:rgba(255,255,255,0.17);
+}
+
+/* Card archives */
+#aside-content .card-archives{
+ background-color:rgba(255,255,255,0.17);
+}
+
+/* Card webinfo */
+#aside-content .card-webinfo{
+ background-color:rgba(255,255,255,0.17);
+}
+
+/* Link */
+#footer-wrap .footer_custom_text a{
+ font-weight:700;
+ color:#ff4b0f !important;
+}
