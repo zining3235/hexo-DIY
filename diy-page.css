@@ -72,8 +72,8 @@
 }
 /* Sticky layout */
 #aside-content .sticky_layout{
- padding-bottom:49px;
- height:1697px;
+ margin-bottom:0px;
+ min-height:2036px;
 }
 
 /* Content inner */
