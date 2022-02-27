@@ -70,11 +70,6 @@
 #recent-posts .article-meta .fa-comments{
  color:#4285f4;
 }
-/* Sticky layout */
-#aside-content .sticky_layout{
- margin-bottom:0px;
- min-height:2036px;
-}
 
 /* Content inner */
 #content-inner{
@@ -124,10 +119,4 @@
 /* Card webinfo */
 #aside-content .card-webinfo{
  background-color:rgba(255,255,255,0.17);
-}
-
-/* Link */
-#footer-wrap .footer_custom_text a{
- font-weight:700;
- color:#ff4b0f !important;
 }
